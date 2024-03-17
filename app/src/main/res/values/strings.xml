@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Playfair Cypher</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="wordEnc">Enter text to Encrypt</string>
+    <string name="wordDec">Enter text to Decrypt</string>
+    <string name="key">Enter the Key</string>
+    <string name="next">NEXT</string>
+    <string name="fill_key">FILL KEY</string>
+    <string name="fill">FILL</string>
+    <string name="done">DONE</string>
+    <string name="playfair">PLAYFAIR</string>
+    <string name="about_playfair">About PLAYFAIR</string>
+    <string name="modified_text">Modified Text</string>
+    <string name="modified_key">Modified Key</string>
+</resources>
